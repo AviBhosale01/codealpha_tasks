@@ -1,4 +1,4 @@
-# Task 01 By Avishkar Bhosale
+# Task 01 By Avi Bhosale 
 
 
 import random
