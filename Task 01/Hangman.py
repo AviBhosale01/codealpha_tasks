@@ -1,4 +1,4 @@
-# Task 01 By Avi Bhosale 
+# Task 01 By Avi Bhosale for the company
 
 
 import random
